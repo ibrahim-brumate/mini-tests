@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress": "cypress open",
+    "cypress": "cypress run",
+    "cypress-local": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
